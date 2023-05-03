@@ -1,4 +1,7 @@
-﻿struct Link
+﻿using System;
+using System.Collections.Generic;
+
+struct Link
 {
     public int L1;
     public int L2;
